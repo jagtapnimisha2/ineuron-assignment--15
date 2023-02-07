@@ -4,7 +4,6 @@
 
 
 #### Screenshot of web page
-![Screenshot (198)](https://user-images.githubusercontent.com/120504401/217291257-343b298e-1d5d-4d60-ab95-be569b1bdba3.png)
 ![Screenshot (210)](https://user-images.githubusercontent.com/120504401/217295198-4a0b8da7-8a63-479a-ad44-1fe98721aa06.png)
 ![Screenshot (209)](https://user-images.githubusercontent.com/120504401/217295210-938234f1-723d-4aac-bf4b-cc4df0e7c9e0.png)
 ![Screenshot (208)](https://user-images.githubusercontent.com/120504401/217295213-4f6ca34f-4b20-4edc-ad96-8f2ab53ebf14.png)
