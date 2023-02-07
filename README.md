@@ -4,15 +4,4 @@
 
 
 #### Screenshot of web page
-
-![image](./screenshort/img1.png)
-
-![image](./screenshort/img2.png)
-
-![image](./screenshort/img3.png)
-
-![image](./screenshort/img4.png)
-
-![image](./screenshort/img5.png)
-
-![image](./screenshort/img6.png)
+![Screenshot (198)](https://user-images.githubusercontent.com/120504401/217291257-343b298e-1d5d-4d60-ab95-be569b1bdba3.png)
